@@ -1,4 +1,6 @@
-# ESP32 Rover
+# SafeScout a Mine Hazard Warning System
+
+![Poster](https://github.com/LakshendraSingh/SafeScout-MineHazardEarlyWarningSystem/blob/main/Poster.png)
 
 A Wi-Fi controlled rover built on two boards:
 
